@@ -1,4 +1,4 @@
-[![DOI](https://zenodo-rdm.web.cern.ch/badge/DOI/10.5281/zenodo.11199209.svg)](https://doi.org/10.5281/zenodo.11199209)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11199209.svg)](https://doi.org/10.5281/zenodo.11199209)
 
 For any questions, please contact us: fengc@stanford.edu, valentina.maria.cairo@cern.ch, young@slac.stanford.edu
 
